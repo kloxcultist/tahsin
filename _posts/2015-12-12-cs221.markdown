@@ -2,20 +2,12 @@
 layout: post
 title:  "Invariant Manifolds"
 date:   2023-10-15 
+categories: Stanford
 author: "Tahsin Hossain"
+subtitle: "Orbital transfer of satellite"
+course: "National Mechanical Festival"
 code: https://github.com/kloxcultist/Chaos-deltaV
-poster: /pdfs/cs229-poster.pdf
 ---
 
 Modified a Python-based framework to calculate the delta-v for the transfer between the Earth-Moon 
 L2 Lyapunov orbit and Sun-Earth L4 planar orbit. 
-
-
-Now hosted at [http://doctorbayes.com](http://doctorbayes.com){:target="_blank"} I rebuilt this project from scratch (without the use of other libraries) in both Python and Javascript. The source code is available on my [github](https://github.com/leonidk/drbayes){:target="_blank"}.
-
-
-[CS221 PDF](/pdfs/cs221.pdf){:target="_blank"}
-
-[CS229 PDF](/pdfs/cs229.pdf){:target="_blank"}
-
-[CS229 Poster](/pdfs/cs229-poster.pdf){:target="_blank"}
